@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078970493909",
+    "project_id": "kiemtra3-83d62",
+    "storage_bucket": "kiemtra3-83d62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078970493909:android:ec068fd82abd0bc1e8eb5c",
+        "android_client_info": {
+          "package_name": "com.example.baikiemtra3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078970493909-nvpattjnlk0rve3vubmuhdbccmitn9rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQc1VwPpQAAAr4TgchNyckq5UDHZ3iQnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078970493909-nvpattjnlk0rve3vubmuhdbccmitn9rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
